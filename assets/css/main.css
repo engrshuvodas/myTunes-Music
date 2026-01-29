@@ -270,7 +270,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('Picture/hero_image.png') center/cover;
+    background: url('../images/hero_image.png') center/cover;
     filter: brightness(0.3) saturate(1.2);
     transform: scale(1.1);
     animation: hero-zoom 20s infinite alternate;
@@ -603,7 +603,7 @@ body {
 
 /* Global Section */
 .global-section {
-    background: url('Picture/video.png') center/cover;
+    background: url('../images/video.png') center/cover;
     background-attachment: fixed;
     position: relative;
 }
