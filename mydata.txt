@@ -1,0 +1,114 @@
+# Engr Shuvo Das - Personal & Professional Details
+
+## Personal Information
+- **Full Name:** Engr. Shuvo Das
+- **Profession:** Software Engineer | Digital Marketer
+- **Location:** Gujarat, India (Previously Dhaka, Bangladesh)
+- **Email:** engrshuvoda@gmail.com
+- **Phone/WhatsApp:** +880 1765-245872
+- **Education:** B.Tech in Computer Science & Engineering (Parul University, India)
+
+## Professional Summary
+Software Engineer with strong background in web development and desktop software development. Specializes in building custom websites and powerful desktop-based marketing tools, with major focus on WhatsApp Marketing Software. Over 8+ years experience, built 150+ websites, serving clients in 80+ countries.
+
+## Services Offered
+1. **Web Design** - Modern, high-quality professional designs
+2. **Web Development** - WordPress & custom code development
+3. **Desktop Applications** - Windows & macOS marketing tools
+4. **WhatsApp Marketing** - Automation, lead extraction, scaling solutions
+5. **Digital Marketing** - Online presence growth strategies
+6. **Targeted Lead Generation** - B2B verified prospects
+
+## Key Skills
+- WhatsApp Marketing Software: 95%
+- WordPress: 90%
+- Web Design: 80%
+- Web Development: 70%
+- Business Marketing Consulting: 85%
+
+## Work Experience
+**Founder, WASendX** (Mar 2025 - Present)
+- WhatsApp Marketing Software with lead generation, campaign tracking, anti-ban tech
+
+**Digital Marketing Specialist, Fiverr** (Feb 2020 - Present)
+- Customized WhatsApp marketing strategies and software tools
+
+**HR Manager, CodeCloud Technology** (May 2024 - Nov 2024)
+- Recruitment, employee engagement, workplace culture
+
+**Digital Marketing Manager, CodeCloud Technology** (Feb 2024 - May 2024)
+- E-commerce, content management, digital strategy
+
+**Senior Project Manager, Jamdani Hat & Mohanogor** (Jan 2024 - Jun 2024)
+- Team coordination, product delivery, digital marketing, sales optimization
+
+**Frontend Developer, P2C IT** (Jan 2020 - Feb 2024)
+- Responsive UI websites, frontend development
+
+**Co-Founder, Priya Fashion House** (Feb 2023 - Dec 2023)
+- Product sourcing, sales, digital marketing via Facebook
+
+## Education
+- **Parul University, India** (2024 - Present): B.Tech in Computer Science & Engineering
+- **Southeast University, Dhaka** (2023 - Transferred): B.Sc. in Computer Science & Engineering
+- **Khulna Polytechnic Institute, Khulna** (2019 - 2023): Diploma in Computer Engineering
+- **Narail Technical School & College** (2017 - 2019): Department of Computer Science
+
+## Portfolio Projects
+1. **LMS POINT** - Web Design
+2. **Food Pathao** - Web Design
+3. **LMS Dashboard Design** - Web Development
+4. **Brawlhalla** - Applications
+
+## Social Media Links
+- **Facebook:** https://www.facebook.com/engr.shuvo74886/
+- **WhatsApp:** https://wa.me/+8801765245872
+- **LinkedIn:** https://www.linkedin.com/in/engr-shuvo-das-a28085260/
+- **YouTube:** https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg
+- **GitHub:** https://github.com/engrshuvodas
+- **Fiverr:** https://www.fiverr.com/shuvo_das74886
+
+## Contact Form
+Formspree Endpoint: https://formspree.io/f/xanjzklp
+
+## CV Download
+Professional Resume: ./assets/images/cv/Professional Resume of Shuvo Das.pdf
+
+## Service Packages
+1. **Basic Website** - Responsive design, 5-page site, basic SEO
+2. **Custom Software (Pro)** - WhatsApp marketing tools, lead generation, anti-ban tech, full support
+3. **E-Commerce** - Online store setup, payment integration, product management, marketing strategy
+
+## Blog Articles
+1. "Boost Sales with Bulk Msg WhatsApp Marketing" - Marketing
+2. "Unlock 1000+ Verified Leads with Google Maps" - Marketing
+3. "Unlock Wasender's WhatsApp Marketing Tools" - Tools
+4. "How to Collect Leads and Filter WhatsApp Accounts" - Marketing
+
+## Statistics
+- 150+ Websites Built
+- 1000+ Daily Messages Sent
+- 80+ Countries Served
+- 8+ Years Experience
+
+## Technologies Used
+- Font Awesome Icons
+- Flag Icons for country flags
+- Custom CSS/JavaScript
+- Formspree for contact forms
+
+## Theme Features
+- Light/Dark theme toggle
+- Responsive design
+- Mobile-friendly navigation
+- Animated skill bars
+- Marquee testimonials
+- Floating WhatsApp contact widget
+
+## Client Testimonials
+Clients from South Africa, United States, UAE, Italy, France, UK, Nigeria, Sri Lanka, Israel, Bangladesh with 4-5 star ratings.
+
+---
+**Portfolio Website:** [Your website URL]
+**Last Updated:** 2026
+**Copyright:** © 2026 Engr. Shuvo Das. All Rights Reserved.
